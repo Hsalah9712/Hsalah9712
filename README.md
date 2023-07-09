@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Hassan Salah 👋.
+## A Front-End Developer who loves to code and learn new things each day. 
 
-<!--
-**Hsalah9712/Hsalah9712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Front-End Developer who is always learning!
+- 🖥 I’m currently working as a Junior Frontend Engineer
+- 🤓 I’m currently learning more about Typscript and Angular 
+- 👨🏻‍💻 I’m looking to build meaningful apps
+- 🙌🏼 2023 Goals: Learn and be able to scale with Rust and Creating more complex contracts with Solidity
+- ⚽️ Fun fact: I love playing Football
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img align="left" alt="fullstacked.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fullstacked.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Current Stack: 
+
+Front-End: **TypeScript** **Angular**
+<br />
+
+---
+
+[twitter]: https://twitter.com/HassanSalah97_
+[linkedin]: https://www.linkedin.com/in/hassan-salah-b44638220/
